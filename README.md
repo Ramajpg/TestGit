@@ -1,0 +1,3 @@
+EJECUCION
+    git clone ...
+    npm install

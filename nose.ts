@@ -33,6 +33,7 @@ public calcularEdad(){
 }
 };
 
+//Consola
 let fede = new persona (1984, "Federico Fernandez");
 console.log(fede.cualEsTuNombre());
 console.log(fede.cualEsTuGeneracion());
